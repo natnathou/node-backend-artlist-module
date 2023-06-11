@@ -1,0 +1,5 @@
+{
+  "legacyWatch": ["dist"],
+  "exec": "node ./dist/server.js" ,
+  "ext": "js, json"
+}
